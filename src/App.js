@@ -1,4 +1,4 @@
-import {useState, useEffect} from 'react';
+import {useState} from 'react';
 import styled from 'styled-components'
 import Input from './components/Input'
 import SearchBox from './components/SearchBox'
